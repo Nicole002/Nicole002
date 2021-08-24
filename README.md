@@ -1,11 +1,11 @@
-<h1> Hi, my name is Nicole! 👋 </h1>
+# Hi, my name is Nicole! 👋
 
-<h2> I am... </h2>
+**I am...**
 
 - ... a software developer intern 💻
-- ... currently learning Ruby on Rails🙇🏼‍♀️
+- ... currently learning Ruby on Rails 🔆
 - ... interested in astronomy 🪐
-- ... a new <a href="https://medium.com/@nicole.schmidlin">medium</a> member🌱
+- ... a new <a href="https://medium.com/@nicole.schmidlin">medium</a> member 🌱
 
 
 
