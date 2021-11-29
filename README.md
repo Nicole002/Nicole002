@@ -1,4 +1,4 @@
-# Hi, my name is Nicole! 👋
+# Hi, my name is Nicole 🦦!
 
 **I am...**
 
@@ -6,8 +6,7 @@
 - ... currently learning Ruby on Rails 🔆
 - ... interested in astronomy 🪐
 - ... a new <a href="https://medium.com/@nicole.schmidlin">medium</a> member 🌱
-
-
+- ... a new <a href="https://dev.to/schmidlinicole">dev.to</a> member 💫
 
 
 <!---
